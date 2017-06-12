@@ -1,7 +1,7 @@
 {
 
   "kafka": {
-    "connectionString": "127.0.0.1:2181",
+    "connectionString": "172.16.88.6:2181",
     "topic": "test"
   },
   "interval": 1000,

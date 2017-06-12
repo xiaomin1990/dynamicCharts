@@ -4,8 +4,8 @@
 	2.cd
 	3.npm install
 	4.node app.js
-	5.node test.js
-	6.http://localhost:8001/index.html
+	5.http://localhost:8001/index.html
+	6.node test.js
 
 ## 使用步骤
 
@@ -15,6 +15,6 @@
 
    3. 执行app.js文件
 
-   4. 执行test.js文件
+   4. 打开浏览器输入 http://localhost:8001/index.html
 
-   5. 打开浏览器输入 http://localhost:8001/index.html
+   5. 执行test.js文件
