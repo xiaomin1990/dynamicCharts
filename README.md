@@ -1,10 +1,11 @@
 
-## sudo git clone https://github.com/xiaomin1990/dynamicCharts.git
-## cd
-## npm install
-## node app.js
-## node test.js
-## http://localhost:8001/index.html
+## Readme
+	1.sudo git clone https://github.com/xiaomin1990/dynamicCharts.git
+	2.cd
+	3.npm install
+	4.node app.js
+	5.node test.js
+	6.http://localhost:8001/index.html
 
 #使用步骤:
   1.下载项目到本地目录。
